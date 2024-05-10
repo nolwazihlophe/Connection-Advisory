@@ -1,5 +1,5 @@
 <dl>
-<img src="Logo6.png" style="border: 0pt none; margin-bottom: 1em; float: left; margin-right: 1em;" height="6.67"; width="18.87>
+<img src="Logo6.png" style="border: 0pt none; margin-bottom: 1em; float: left; margin-right: 1em;" height="640"; width="1260">
 <p style="text-align: left;">
 </p>
 </dl>
