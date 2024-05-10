@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: "/Connection Advisory"
+url: "https://ca.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
+title: Connection Advisory                                    # site's title
 description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: Logo6.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
@@ -15,12 +15,12 @@ header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
-# Blog
+# About us
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
-# Features
+# Publications
 # More in the _data folder for share buttons, author and language
 # For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
 katex: true                                             # Enable if using math markup
