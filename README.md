@@ -4,8 +4,6 @@
 </p>
 </dl>
 
-# Connection-Advisory
-
 
 <div class="actions button-container">
     <a href="#" class="button primary">Home</a>
